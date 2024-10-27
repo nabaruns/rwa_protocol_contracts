@@ -1,0 +1,1 @@
+d01aff3e6c812aa7a56d732232ef02374d6020beb8c4d386b05ac362a0ee4b51  rwa_protocol_contracts.wasm
